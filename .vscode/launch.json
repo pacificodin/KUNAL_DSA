@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Find_a_topower_b",
+            "request": "launch",
+            "mainClass": "Find_a_topower_b",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "First_missing",
+            "request": "launch",
+            "mainClass": "First_missing",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "N_Queen",
+            "request": "launch",
+            "mainClass": "N_Queen",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "NoOfSetBit",
+            "request": "launch",
+            "mainClass": "NoOfSetBit",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Nth_magic_no",
+            "request": "launch",
+            "mainClass": "Nth_magic_no",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Pangram",
+            "request": "launch",
+            "mainClass": "Pangram",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Pivot",
+            "request": "launch",
+            "mainClass": "Pivot",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "PrimeRangeProduct",
+            "request": "launch",
+            "mainClass": "PrimeRangeProduct",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "RangePrime",
+            "request": "launch",
+            "mainClass": "RangePrime",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Roman_to_int",
+            "request": "launch",
+            "mainClass": "Roman_to_int",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Skip_char_and_word",
+            "request": "launch",
+            "mainClass": "Skip_char_and_word",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "SqareRoot",
+            "request": "launch",
+            "mainClass": "SqareRoot",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "Subset.Backtracking.permutation",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Substring",
+            "request": "launch",
+            "mainClass": "Substring",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "Xor_bw_range",
+            "request": "launch",
+            "mainClass": "Xor_bw_range",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "checking",
+            "request": "launch",
+            "mainClass": "checking",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "FlippingImage",
+            "request": "launch",
+            "mainClass": "leetcode.FlippingImage",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "NoOf_Jump",
+            "request": "launch",
+            "mainClass": "leetcode.NoOf_Jump",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "One_plus",
+            "request": "launch",
+            "mainClass": "leetcode.One_plus",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "min_no",
+            "request": "launch",
+            "mainClass": "leetcode.min_no",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "origin_position",
+            "request": "launch",
+            "mainClass": "leetcode.origin_position",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "permutation01",
+            "request": "launch",
+            "mainClass": "leetcode.permutation01",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "leetcode.power",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "reverse_the_word",
+            "request": "launch",
+            "mainClass": "leetcode.reverse_the_word",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
+            "mainClass": "mergeSort",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "newton_rapson",
+            "request": "launch",
+            "mainClass": "newton_rapson",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "primeNo2toN",
+            "request": "launch",
+            "mainClass": "primeNo2toN",
+            "projectName": "KUNAL_DSA_c37c719d"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "KUNAL_DSA_c37c719d"
+        }
+    ]
+}
